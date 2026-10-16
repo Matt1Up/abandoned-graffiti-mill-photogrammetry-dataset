@@ -1,0 +1,15 @@
+# Scale reference: a calibrated bar carrying two AprilTag 36h11 markers, laid on the ground.
+# Bar length, center of tag to center of tag: 1.99628 m (1.996 m, 78 19/32 in).
+# The solve was scaled to this length with the two tags as control points.
+#
+# RealityScan labels 36h11 tags on its own scheme. The official 36h11 IDs that OpenCV and the
+# apriltag library report for the same two tags are 476 and 283.
+#
+# x y z: each tag's center in the coordinate frame of the published poses, in meters, placed by
+# detecting the tag in the original photos (OpenCV) and triangulating through the published
+# cameras, lens distortion included (tag 476: 35 photos, median 1.42 px; tag 283: 30 photos,
+# median 0.65 px). Their distance: 1.99648 m, 0.20 mm from the calibrated length.
+#
+# realityscan_label  official_id      x          y         z
+36h11:001            476             -38.7866   -11.5767   1.0153
+36h11:002            283             -38.4321   -13.5414   1.0004

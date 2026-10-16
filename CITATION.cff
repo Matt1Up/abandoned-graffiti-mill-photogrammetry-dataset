@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Abandoned Graffiti Mill (Früen Mill, Minneapolis): drone photogrammetry"
+abstract: >-
+  A complete drone photogrammetry image set of the abandoned Früen Mill in the Bassett Creek
+  valley, Minneapolis, and its graffiti, captured October 11, 2026 with a DJI FC9313 at native
+  4096x3072 resolution. 1,896 images, 233 of them taken inside the building at three spots
+  reached through open window bays, 230 of them solved together with the exterior. GPS intact on every
+  frame, original aircraft filenames preserved; faces are blurred in 30 images and license plates
+  in 3, the other 1,863 are camera originals. Solved camera poses in COLMAP format and a
+  sparse tie point cloud are included, and the solve is metrically scaled from a 1.996 m
+  AprilTag calibration bar used as control points. The license covers the photographs and
+  data, not the graffiti artworks in them.
+authors:
+  - family-names: Guertin
+    given-names: Matthew
+    website: "https://mattguertin.com"
+date-released: 2026-10-16
+version: "1.0.0"
+license: CC-BY-4.0
+keywords:
+  - photogrammetry
+  - drone
+  - uav
+  - aerial imagery
+  - 3D reconstruction
+  - structure from motion
+  - gaussian splatting
+  - dataset
+  - camera poses
+  - colmap
+  - graffiti
+  - abandoned building
+  - interior
+repository-code: "https://github.com/Matt1Up/abandoned-graffiti-mill-photogrammetry-dataset"

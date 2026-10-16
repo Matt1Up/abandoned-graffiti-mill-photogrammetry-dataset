@@ -1,0 +1,17 @@
+# 6 cameras that aligned with implausible values. They are LEFT OUT of the published poses
+# (COLMAP and XMP); their photos are still in mill/images/.
+# All six are close-ups of the corrugated metal cladding with louvers on the upper structure,
+# shot 15:33-15:34: the same panels repeat and the matcher cannot tell one from the next.
+#
+# focal35: the solved focal length as a 35 mm equivalent. The lens is fixed; the median over
+#          all 1,888 aligned cameras is 23.95 mm, and every other camera is within 23-26 mm.
+# GPS:     distance between the solved position and the photo's own GPS fix after a best-fit
+#          similarity transform; the median over all cameras is 2.5 m.
+#
+# filename                        focal35   GPS
+DJI_20261011153400_0793_D.JPG     973.5 mm  140.0 m   posed far outside the site
+DJI_20261011153348_0789_D.JPG      52.5 mm    5.0 m
+DJI_20261011153345_0788_D.JPG      35.5 mm    3.0 m
+DJI_20261011153318_0779_D.JPG      32.7 mm    3.1 m
+DJI_20261011153351_0790_D.JPG      32.5 mm    2.4 m
+DJI_20261011153315_0778_D.JPG      27.5 mm    2.0 m

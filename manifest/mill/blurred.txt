@@ -1,0 +1,40 @@
+# The 33 images in this dataset that are NOT camera originals: faces or license plates blurred.
+# Every other image (1,863) is the file exactly as the aircraft wrote it.
+# In these 33 only the listed areas were changed. The image was re-encoded with the camera's own
+# JPEG quantization tables at the same 4096x3072, the EXIF and DJI XMP are copied byte for byte, the
+# EXIF thumbnail is remade from the blurred pixels, and DJI's embedded 960x720 preview is removed.
+# The camera solve (poses, tie points) was computed from the unblurred originals.
+#
+DJI_20261011154530_0967_D.JPG  faces blurred
+DJI_20261011154533_0968_D.JPG  faces blurred
+DJI_20261011155406_0055_D.JPG  faces blurred
+DJI_20261011155409_0056_D.JPG  faces blurred
+DJI_20261011155412_0057_D.JPG  faces blurred
+DJI_20261011155415_0058_D.JPG  faces blurred
+DJI_20261011155418_0059_D.JPG  faces blurred
+DJI_20261011155421_0060_D.JPG  faces blurred
+DJI_20261011155424_0061_D.JPG  faces blurred
+DJI_20261011155430_0063_D.JPG  faces blurred
+DJI_20261011155433_0064_D.JPG  faces blurred
+DJI_20261011155436_0065_D.JPG  faces blurred
+DJI_20261011155439_0066_D.JPG  faces blurred
+DJI_20261011155442_0067_D.JPG  faces blurred
+DJI_20261011155445_0068_D.JPG  faces blurred
+DJI_20261011155448_0069_D.JPG  faces blurred
+DJI_20261011155451_0070_D.JPG  faces blurred
+DJI_20261011155454_0071_D.JPG  faces blurred
+DJI_20261011155457_0072_D.JPG  faces blurred
+DJI_20261011155500_0073_D.JPG  faces blurred
+DJI_20261011155649_0099_D.JPG  faces blurred
+DJI_20261011155655_0101_D.JPG  faces blurred
+DJI_20261011155658_0102_D.JPG  faces blurred
+DJI_20261011155809_0118_D.JPG  faces blurred
+DJI_20261011155835_0125_D.JPG  license plates blurred
+DJI_20261011155838_0126_D.JPG  faces blurred
+DJI_20261011155841_0127_D.JPG  faces blurred
+DJI_20261011155844_0128_D.JPG  faces blurred
+DJI_20261011155850_0130_D.JPG  faces blurred
+DJI_20261011155908_0136_D.JPG  faces blurred
+DJI_20261011155914_0138_D.JPG  faces blurred
+DJI_20261011161645_0434_D.JPG  license plates blurred
+DJI_20261011161648_0435_D.JPG  license plates blurred
