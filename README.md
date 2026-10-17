@@ -40,7 +40,7 @@ Captured with the property owner's knowledge and cooperation.
 
 ## Inside and out
 
-![Exterior and interior](preview/interior-exterior.jpg)
+![Inside the mill, interior spot 3 — DJI_20261011164537_0800_D.JPG](preview/interior.jpg)
 
 | interior spot | frames | photos | aligned |
 |---|---|---|---|
@@ -51,6 +51,20 @@ Captured with the property owner's knowledge and cooperation.
 The drone entered each spot through an open window bay, and 230 of the 233 interior photos
 solve in the same component as the exterior — interior and exterior in one coordinate frame. The list is [`manifest/mill/interior.txt`](https://github.com/Matt1Up/abandoned-graffiti-mill-photogrammetry-dataset/blob/main/manifest/mill/interior.txt),
 picked by eye, and the `interior` column of `images.csv` carries the spot number.
+
+## Gallery
+
+Renders of the textured model reconstructed from these photographs. The model itself is not
+part of the dataset.
+
+| | |
+|---|---|
+| ![](preview/02.jpg) | ![](preview/03.jpg) |
+| ![](preview/04.jpg) | ![](preview/05.jpg) |
+| ![](preview/06.jpg) | ![](preview/07.jpg) |
+| ![](preview/08.jpg) | ![](preview/09.jpg) |
+| ![](preview/10.jpg) | ![](preview/11.jpg) |
+| ![](preview/12.jpg) | |
 
 ## What's in it
 
@@ -250,20 +264,6 @@ git clone https://github.com/Matt1Up/abandoned-graffiti-mill-photogrammetry-data
 ```
 
 More detail in **[docs/download.md](https://github.com/Matt1Up/abandoned-graffiti-mill-photogrammetry-dataset/blob/main/docs/download.md)**.
-
-## Gallery
-
-Renders of the textured model reconstructed from these photographs. The model itself is not
-part of the dataset.
-
-| | |
-|---|---|
-| ![](preview/02.jpg) | ![](preview/03.jpg) |
-| ![](preview/04.jpg) | ![](preview/05.jpg) |
-| ![](preview/06.jpg) | ![](preview/07.jpg) |
-| ![](preview/08.jpg) | ![](preview/09.jpg) |
-| ![](preview/10.jpg) | ![](preview/11.jpg) |
-| ![](preview/12.jpg) | |
 
 ## Notes
 
