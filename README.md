@@ -286,6 +286,7 @@ https://github.com/Matt1Up/abandoned-graffiti-mill-photogrammetry-dataset
 
 ## Related
 
+- **[Thirteen Mission Waypoint Drone Survey](https://github.com/Matt1Up/plymouth-mn-residential-survey-photogrammetry-dataset)** — 1,421 images of a residential complex in Plymouth, Minnesota: crosshatched nadir grids and 11 orbits, with COLMAP poses.
 - **[Drone building scans](https://github.com/Matt1Up/drone-building-scans-dataset)** — two commercial buildings, with poses.
 - **[Tree photogrammetry dataset](https://github.com/Matt1Up/tree-photogrammetry-dataset)** — 812 images of one tree, with COLMAP poses.
 - **[Chicago / Grant Park](https://github.com/Matt1Up/chicago-photogrammetry-dataset)** — 2,751 aerial images and 241 laser scan files over downtown Chicago.
